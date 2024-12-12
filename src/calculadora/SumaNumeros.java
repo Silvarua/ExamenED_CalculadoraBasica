@@ -11,6 +11,7 @@ public class SumaNumeros {
 		int suma = numero1 + numero2;
 		System.out.println("La suma de " + numero1 + " y " + numero2 + " es: " + suma);
 		System.out.println("Ese es el total");
+		/*Cambio realizado desde rama feature-suma*/
 		/*El Programa suma dos numeros introducidos por el usuario*/
 		}
 	
