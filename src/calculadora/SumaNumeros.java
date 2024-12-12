@@ -13,6 +13,7 @@ public class SumaNumeros {
 		System.out.println("Ese es el total");
 		/*Cambio realizado desde rama feature-suma*/
 		/*El Programa suma dos numeros introducidos por el usuario*/
+		/*Comentario después de realizar fusión entre ramas*/
 		}
 	
 }
